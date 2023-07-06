@@ -49,13 +49,14 @@ To get a visual preview of the game, you can watch the [Go-To-Earth Game Present
 ## Screenshots
 
 Here are some screenshots of the game:
+
 <p align="center">
-  <img src="Screenshot_2.png" alt="Screenshot 2" width="200px">
-  <img src="Screenshot_3.png" alt="Screenshot 3" width="200px">
-  <img src="Screenshot_4.png" alt="Screenshot 4" width="200px">
+  <img src="Screenshot_2.png" alt="Screenshot 2" width="250px">
+  <img src="Screenshot_3.png" alt="Screenshot 3" width="250px">
+  <img src="Screenshot_4.png" alt="Screenshot 4" width="250px">
 </p>
 <p align="center">
-  <img src="Screenshot_5.png" alt="Screenshot 5" width="200px">
-  <img src="Screenshot_6.png" alt="Screenshot 6" width="200px">
-  <img src="Screenshot_7.png" alt="Screenshot 7" width="200px">
+  <img src="Screenshot_5.png" alt="Screenshot 5" width="250px">
+  <img src="Screenshot_6.png" alt="Screenshot 6" width="250px">
+  <img src="Screenshot_7.png" alt="Screenshot 7" width="250px">
 </p>
