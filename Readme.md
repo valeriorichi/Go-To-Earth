@@ -44,7 +44,7 @@ Enjoy the game and good luck on your journey to Earth!
 
 ## Video Presentation
 
-To get a visual preview of the game, you can watch the [Go-To-Earth Game Presentation]([https://www.youtube.com/watch?v=Wwwftd60e6k](https://youtu.be/4hzW4m03NSU)).
+To get a visual preview of the game, you can watch the [Go-To-Earth Game Presentation](https://youtu.be/4hzW4m03NSU).
 
 ## Screenshots
 
